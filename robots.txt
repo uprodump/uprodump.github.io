@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uprodump.github.io/uprodump.txt.gz
+Sitemap: https://uprodump.github.io/app/uprodump.txt.gz
+Sitemap: https://uprodump.github.io/assets/uprodump.txt.gz
+Sitemap: https://uprodump.github.io/css/uprodump.txt.gz
+Sitemap: https://uprodump.github.io/includes/uprodump.txt.gz
+Sitemap: https://uprodump.github.io/item/uprodump.txt.gz
+Sitemap: https://uprodump.github.io/src/uprodump.txt.gz
